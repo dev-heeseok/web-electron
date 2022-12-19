@@ -23,7 +23,7 @@
     "@electron-forge/maker-zip": "^6.0.0-beta.66",
     "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
-    "electron": "^21.0.0",
+    "electron": "^22.0.0",
     "sass": "^1.55.0",
     "sass-loader": "^13.0.2",
     "style-loader": "^3.3.1",
